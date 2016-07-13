@@ -1,9 +1,12 @@
 [submodule "src/github.com/asdqwex/argparse_go"]
 	path = src/github.com/asdqwex/argparse_go
+	branch = master
 	url = git@github.com:asdqwex/argparse_go.git
 [submodule "src/github.com/asdqwex/logparse_go"]
 	path = src/github.com/asdqwex/logparse_go
+	branch = master
 	url = git@github.com:asdqwex/logparse_go.git
 [submodule "src/github.com/golang/example"]
 	path = src/github.com/golang/example
+	branch = master
 	url = https://github.com/golang/example.git
