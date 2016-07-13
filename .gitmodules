@@ -1,0 +1,3 @@
+[submodule "src/github.com/asdqwex/argparse_go"]
+	path = src/github.com/asdqwex/argparse_go
+	url = git@github.com:asdqwex/argparse_go.git
