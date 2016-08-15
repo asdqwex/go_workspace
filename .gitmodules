@@ -10,3 +10,9 @@
 	path = src/github.com/golang/example
 	branch = master
 	url = https://github.com/golang/example.git
+[submodule "aws_mgmt"]
+	path = aws_mgmt
+	url = git@github.com:asdqwex/aws_mgmt.git
+[submodule "src/github.com/asdqwex/aws_mgmt"]
+	path = src/github.com/asdqwex/aws_mgmt
+	url = git@github.com:asdqwex/aws_mgmt.git
